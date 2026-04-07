@@ -21,7 +21,7 @@ body
 }
 
 .menu{
-	background-color:#3B4DB8;
+	background-color:#FF8DA1;
 	height:50px;
 	line-height:50px;
 	position:relative;
@@ -44,7 +44,7 @@ body
 }
 
 .menu ul li a:hover {
-	background-color:#3B8CB8;
+	background-color:#FF8DA1;
 	display:block;
 }
 
